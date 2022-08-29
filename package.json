@@ -1,0 +1,27 @@
+{
+  "name": "random-string-messages",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orlando315/random-string-messages.git"
+  },
+  "keywords": [],
+  "author": "Orlando Perez <orlandoj_315@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orlando315/random-string-messages/issues"
+  },
+  "homepage": "https://github.com/Orlando315/random-string-messages#readme",
+  "bin": {
+    "random-string-messages": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
